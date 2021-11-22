@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:o1X-t5IG9-41nhOWYNSaE
+SUMMARY:Pet Shop - Tudo de Bicho
+DTSTAMP:20211122T164200Z
+DTSTART:20211118T191100Z
+DESCRIPTION:Pet: Pet_name1 - Serviço: service_description
+URL:http://www.tudodebicho.com.br/
+GEO:-23.21559747394141;-45.901656338092174
+LOCATION:Tudo de Bicho - Loja Aquarius Open Mall\, Av. Florestan Fernandes\
+	, 500 - Jardim Serimbura\, São José dos Campos - SP\, 12242-012\, Brasil
+STATUS:CONFIRMED
+CATEGORIES:
+ORGANIZER;CN=Tudo de Bicho:mailto:frankbot@tudodebicho.com.br
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Guilherme Garc
+	ia:mailto:guilherme.garcia@tudodebicho.com.br
+DURATION:PT1H
+END:VEVENT
+END:VCALENDAR

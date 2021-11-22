@@ -1,0 +1,18 @@
+{
+  "name": "bot-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cron": "^1.8.2",
+    "dotenv": "^10.0.0",
+    "ics": "^2.31.0",
+    "nodemailer": "^6.7.1"
+  }
+}
